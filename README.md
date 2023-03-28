@@ -20,11 +20,11 @@ In addition to tracking workouts, Mapty also allows users to save their workouts
 ## Technologies Used
 Mapty was created using the following technologies:
 
-HTML5
-CSS3
-JavaScript (ES6)
-Leaftlet API
-Geolocation API
+ - HTML5
+ - CSS3
+ - JavaScript (ES6)
+ - Leaftlet API
+ - Geolocation API
 
 ## Credits
 Mapty was created as a part of the "The Complete JavaScript Course 2023: From Zero to Expert!" course by Jonas Schmedtmann. The application uses icons from Font Awesome and the Google Fonts API. The source code for the application can be found on GitHub.
